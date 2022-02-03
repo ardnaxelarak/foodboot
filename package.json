@@ -1,0 +1,20 @@
+{
+  "name": "foodboot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kara Alexandra",
+  "license": "ISC",
+  "dependencies": {
+    "articles": "^0.2.2",
+    "cron": "^1.8.2",
+    "dotenv": "^14.3.2",
+    "node-wordnet": "^0.1.12",
+    "twitter-api-v2": "^1.10.0",
+    "wndb-with-exceptions": "^3.0.2"
+  }
+}
